@@ -26,7 +26,7 @@ jobs:
           user: Seop0728
           template: terminal
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Shanghai
+          config_timezone: Asia/Seoul
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
